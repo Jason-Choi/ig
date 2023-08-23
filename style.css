@@ -1,0 +1,33 @@
+body {
+  /* rainbow background */
+  background: linear-gradient(to right, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #8f00ff);
+  text-align: center;
+}
+
+#soosick {
+  color: red;
+}
+
+#name {
+  color: blue;
+}
+
+#ai {
+  width: 100%;
+  max-width: 800px;
+}
+
+.highlight {
+  color: purple;
+  /* glow */
+  text-shadow: 0 0 10px #ff0000;
+}
+#choijiwon {
+  background: #fff;
+  color: orange;
+}
+
+.bg-white {
+  background: #fff;
+  padding: 15px;
+}
